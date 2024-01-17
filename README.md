@@ -9,3 +9,5 @@ WeatherApp is a React project that allows users to check the current weather in 
 - **City Weather Lookup:** Users can enter the name of any city globally to check its current weather.
 - **Real-time Weather Information:** The application fetches data from a weather API to provide accurate and up-to-date weather conditions.
 - **Responsive Design:** Styled with SCSS to ensure a visually appealing user interface.
+
+You can check the website on: https://Dyniaaa.github.io/WeatherApp/
